@@ -1,0 +1,142 @@
+* { margin:0; padding:0;}
+
+/* HTML BODY TAG PROPERTIES */
+body{ 
+	font-family:Times New Roman; 
+	font-size:13px;
+	 background-color: blue;
+}
+
+/* CONTAINER OF HEADER, NAV, BODY CONTAINER AND FOOTERS */
+.container{ 
+	font-family:Times New Roman, Helvetica, sans-serif; 
+	width:850px;  /* over-all width of the web page */
+	margin:auto; /* to make the container CENTER aligned */
+}
+
+.header{ 
+	width:100%; 
+	height:160px; 
+	background-image:url(../images/capture.jpg);
+}
+
+/*NAVIGATOR*/
+.navigator{
+	width:100%; 
+	height:20px; 
+	background-color:#000000;
+	padding-top:5px;
+	color:#FFFFFF;
+}
+.navigator a{ 
+	color:#FFFFFF; 
+	font-family:Arial; 
+	font-size:12px; 
+	text-decoration:none; 
+	font-weight:bold;
+	padding-right:20px;
+	padding-left:20px;
+}
+.navigator a:hover{
+	color:#FF6633;
+}
+/*END OF NAVIGATOR*/
+
+.marqueeInfo{
+	width:100%; 
+	height:16px;
+	font-family:Arial; 
+	font-size:10px; 
+	background-color:#333333;
+	color:#CCCCCC;
+	padding-top:2px;
+}
+
+
+.bodycontainer{ 
+	width:100%; 
+	height:494px;
+	background-color:#FFFFFF;
+}
+
+/* PERSONAL INFO INSIDE BODY*/
+.PersonInfo{
+	width:22%;
+	height:482px;
+	float:right;
+	font:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	background-color:#CCCCCC;
+	padding-top:12px;
+}
+.inName{
+	padding-left:5px;
+	padding-top:8px;
+	color:#FFFFFF;
+	background-color:#333333;
+	width:150px;
+	height:25px;
+}
+.inOccupation{
+	padding-left:5px;
+	color:#FFFFFF;
+	background-color:#333333;
+	width:150px;
+	height:218px;
+	font-size:10px;
+	font-weight:lighter;
+}
+/* END OF PERSONAL */
+
+/* CONTENTS INSIDE THE BODY */
+.Contents{
+	width:78%;
+	height:482px;
+	float:left;
+}
+
+/* FOOTER NAV */
+.footerNav{ 
+	width:100%; 
+	height:20px; 
+	font-size:10px; 
+	color:#FFFFFF;
+	background-color:#333333;
+	padding-top:10px;
+}
+
+.footerNav a{ 
+	text-decoration:none; 
+	color:#FFFFFF;
+}
+
+.footerNav a:hover{ 
+	color:#FF6633;
+}
+/* END OF FOOTER NAV */
+
+/*T  NAV */
+.TNav{ 
+}
+
+.TNav a{ 
+	text-decoration:none; 
+	color:#00CCFF;
+	font-size:18px;
+}
+
+.TNav a:hover{ 
+	color:#FF6633;
+}
+/* END OF T NAV */
+
+.footer{ 
+	width:100%; 
+	height:20px; 
+	background-color:#000000;
+	color:#FFFFFF;
+	font-size:10px; 
+	padding-top:10px;
+}
+ 

@@ -1,0 +1,21 @@
+<marquee direction="up" scrolldelay="140">
+				<br>
+				COURSES:
+				<br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;BscIT</img><br>
+				<br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;BCom</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;BBIT</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Professional Courses</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;KASNEB</img><br><br>
+				<br><br>
+				FACULTIES 
+				:
+				<br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;FoCIM</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Educ</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Graduate School</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Professional Studies</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Business</img><br><br>
+				<br><br>
+				

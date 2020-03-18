@@ -1,0 +1,12 @@
+<marquee scrolldelay="120">
+WELCOME TO KCAU GRADING SYSTEM
+			<img src="images/separator.jpg" width="50" height="10">		
+			<img src="images/separator.jpg" width="50" height="10">
+			KCA UNIVERSITY
+			<img src="images/separator.jpg" width="50" height="10">		
+			<img src="images/separator.jpg" width="50" height="10">
+			A leading Business and Technology University
+			<img src="images/separator.jpg" width="50" height="10">
+			<img src="images/separator.jpg" width="50" height="10">
+			Advancing Knowledge Driving Change
+</marquee>

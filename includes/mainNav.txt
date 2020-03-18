@@ -1,0 +1,6 @@
+<a href="index.php">ABOUT KCAU</a>|
+		<a href="about.php">ABOUT KCAU GPA SYSTEM</a>
+		<a href="grading.php">YOUR GPA</a>|
+		<a href="e-learning.php">E-LEARNING PORTAL</a>|
+		<a href="downloads.php">HOLISTIC STUDY DEVT</a>|
+		
